@@ -17,4 +17,6 @@ Send me an email @ maheremmajean@gmail.com
 
 #### My Work
 
+Here's a [few examples](https://github.com/emmajeanmaher/emmajeanmaher/tree/main/Work) of my experience.
+
 
