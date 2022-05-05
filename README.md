@@ -17,4 +17,4 @@ Send me an email @ maheremmajean@gmail.com
 
 #### My Work
 
-Here's a [few examples](https://github.com/emmajeanmaher/emmajeanmaher/tree/main/Work) of my experience.
+Here's a [few examples](https://github.com/emmajeanmaher/emmajeanmaher/tree/main/Work) of my work, as well as one of the [sites](https://buddlogistics.com) I actively maintain.
